@@ -19,3 +19,6 @@ average=$(bc <<< "scale=2; $sum / $count")
 
 # Output the average
 echo "The average is: $average"
+
+
+
